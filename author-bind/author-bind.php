@@ -18,7 +18,7 @@
  * Description:       Author Bind is a plugin that lets you configure a User ID to override all future added or edited posts/pages.
  * Version:           1.0.0
  * Author:            Jarl André Hübenthal
- * Author URI:        http://github.com/jarlah/Author-Bind
+ * Author URI:        http://github.com/jarlah
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       author-bind
