@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Author Binder
+Plugin Name: Author Bind
 */
 
 defined('ABSPATH') or die('No script kiddies please!');
