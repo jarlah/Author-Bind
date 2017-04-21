@@ -61,5 +61,5 @@ function author_bind_options()
         wp_die(__('You do not have sufficient permissions to access this page.'));
     }
     
-    include(dirname(__FILE__) . '/settings.php');
+    include(dirname(__FILE__) . '/author-bind-settings.php');
 }
